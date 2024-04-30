@@ -1,6 +1,6 @@
-## Package Manager: [lazy](https://github.com/folke/lazy.nvim)
+### Plugin Manager: [lazy](https://github.com/folke/lazy.nvim)
 
-## My Plugins: 
+### My Plugins: 
 * [DAP](https://github.com/mfussenegger/nvim-dap)
 * [telescope](https://github.com/nvim-telescope/telescope.nvim)
 * [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
