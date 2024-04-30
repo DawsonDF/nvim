@@ -4,3 +4,4 @@
 * [nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
 * [plenary](https://github.com/nvim-lua/plenary.nvim)
 * [tree-sitter](https://github.com/tree-sitter/tree-sitter)
+* [vim-fugitive](https://github.com/tpope/vim-fugitive)
