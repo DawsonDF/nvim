@@ -1,6 +1,7 @@
 {
   "coc.nvim": { "branch": "master", "commit": "48bae5f48c274e41637b8d7e4cfede1a0fe15dea" },
   "lazy.nvim": { "branch": "main", "commit": "3f13f080434ac942b150679223d54f5ca91e0d52" },
+  "markdown-preview.nvim": { "branch": "master", "commit": "a923f5fc5ba36a3b17e289dc35dc17f66d0548ee" },
   "moonfly": { "branch": "master", "commit": "d43001d901599ba7273dc5700db26948ffc0bac6" },
   "nvim-dap": { "branch": "master", "commit": "6ae8a14828b0f3bff1721a35a1dfd604b6a933bb" },
   "nvim-lspconfig": { "branch": "master", "commit": "aa5f4f4ee10b2688fb37fa46215672441d5cd5d9" },
